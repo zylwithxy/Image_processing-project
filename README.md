@@ -1,1 +1,3 @@
 # Image_processing-project
+这是用Python完成的Image_processing的project<br>
+主要功能是完成对道路图片的边缘检测，同时还可以对视频进行标记并保存
